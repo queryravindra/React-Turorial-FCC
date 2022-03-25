@@ -1,0 +1,1 @@
+ReactDOM.render(JSX, document.getElementById("challenge-node"));
